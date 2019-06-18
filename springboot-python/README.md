@@ -5,7 +5,7 @@
 再运行
 DemoApplication.java、RibbonConsumerApplication.java和SidecarApplication.java启动对应的服务；
 
-## 动python服务
+## 启动python服务
 ```
 cd python && python sanic_server.py
 ```
