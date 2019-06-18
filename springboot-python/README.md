@@ -1,11 +1,11 @@
 # springboot-python
 
-##
+## 启动java-service
 分别将eureka-server、java-service和sidecar倒入intellij，然后先进行mvn clean和mvn install
 再运行
 DemoApplication.java、RibbonConsumerApplication.java和SidecarApplication.java启动对应的服务；
 
-##启动python服务
+## 动python服务
 ```
 cd python && python sanic_server.py
 ```
